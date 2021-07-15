@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/oberlan/Google Drive UFES/UFES/Estrutura de Dados I/2021-1/Códigos_Aulas/0 - Revisao",
+      "environment": [],
+      "program": "/home/oberlan/Google Drive UFES/UFES/Estrutura de Dados I/2021-1/Códigos_Aulas/0 - Revisao/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
