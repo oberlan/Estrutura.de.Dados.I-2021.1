@@ -15,7 +15,7 @@ typedef struct lista {
 Lista *criaLista() {
     Lista *l = malloc(sizeof(Lista));
     l->inicio = NULL;
-    //l->inicio = l->fim = NULL;
+    //l->fim = NULL;
     //l->tamanho = 0;
     return l;
 }
